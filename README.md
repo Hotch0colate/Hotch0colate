@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pongpayom Monplub
+*Cyber Defense Engineer | ASEAN Cyber Shield Exchange Student Program*
 
-<!--
-**Hotch0colate/Hotch0colate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
+### Cyber Defense Engineer Apprentice - Kasikorn Business Technology Group
+*Jun - Dec 2024*
+- Implement and optimize comprehensive threat detection and response strategies using advanced SIEM and SOAR tools to safeguard organizational assets. Thoroughly analyze security incidents, automate response workflows, and continuously improve overall response capabilities.
 
-Here are some ideas to get you started:
+### Malware Analyst - INCA Internet 
+*Jul 2025*
+- Performed static and dynamic malware analysis using tools like DiE, PEStudio, DnSpy, Wireshark and procmon. Analyzed real-world samples to identify behaviors, persistence, and exfiltration techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contact Information
+
+- **Email**: [pongpayommp@gmail.com](mailto:pongpayommp@gmail.com)  
+- **LinkedIn**: [Pongpayom Monplub](https://www.linkedin.com/in/pongmp/)  
+
+---
