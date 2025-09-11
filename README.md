@@ -6,7 +6,7 @@
 *Jun - Dec 2024*
 - Implement and optimize comprehensive threat detection and response strategies using advanced SIEM and SOAR tools to safeguard organizational assets. Thoroughly analyze security incidents, automate response workflows, and continuously improve overall response capabilities.
 
-### Malware Analyst - INCA Internet 
+### Malware Analyst - INCA Internet (South Korea)
 *Jul 2025*
 - Performed static and dynamic malware analysis using tools like DiE, PEStudio, DnSpy, Wireshark and procmon. Analyzed real-world samples to identify behaviors, persistence, and exfiltration techniques.
 
