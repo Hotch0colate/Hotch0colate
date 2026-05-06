@@ -1,15 +1,6 @@
 # Pongpayom Monplub
 *Cyber Defense Engineer | Malware Analyst | Penetration Tester | ASEAN Cyber Shield Exchange Student Program 2025*
 
-## Education
-### King Mongkut’s University of Technology Thonburi (Bangkok, Thailand)
-*(Aug 2021 - Present)*
-- Bachelor of Science in Applied Computer Science
-
-### Kangwon National University (Chunchoen, South Korea)
-*(Feb 2025 - Dec 2025)*
-- Awarded a full scholarship to participate a ten-month in Asean Cyber Shield Exchange Student Program. This specialized program was dedicated to students from ASEAN countries, focusing on in-depth study of Cyber Security and fostering professional networking with experts in the field. Coursework covered: Network Security, Information Security, System Security, Risk Management, and Digital Forensics.
-
 ## Experience
 ### Penetration Tester - National Cyber Security Agency (Bangkok, Thailand)
 *Internship*
@@ -27,8 +18,16 @@
 *(Jun 2024 - Dec 2024)*
 - Implement and optimize comprehensive threat detection and response strategies using advanced SIEM and SOAR tools to safeguard organizational assets. Thoroughly analyze security incidents, automate response workflows, and continuously improve overall response capabilities.
 
-## Contact Information
+## Education
+### King Mongkut’s University of Technology Thonburi (Bangkok, Thailand)
+*(Aug 2021 - Present)*
+- Bachelor of Science in Applied Computer Science
 
+### Kangwon National University (Chunchoen, South Korea)
+*(Feb 2025 - Dec 2025)*
+- Awarded a full scholarship to participate a ten-month in Asean Cyber Shield Exchange Student Program. This specialized program was dedicated to students from ASEAN countries, focusing on in-depth study of Cyber Security and fostering professional networking with experts in the field. Coursework covered: Network Security, Information Security, System Security, Risk Management, and Digital Forensics.
+
+## Contact Information
 - **Email**: [pongpayommp@gmail.com](mailto:pongpayommp@gmail.com)  
 - **LinkedIn**: [Pongpayom Monplub](https://www.linkedin.com/in/pongmp/)  
 
