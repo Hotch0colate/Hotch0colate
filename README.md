@@ -1,5 +1,5 @@
 # Pongpayom Monplub
-*Cyber Defense Engineer | Malware Analyst | Penetration Tester | ASEAN Cyber Shield Exchange Student Program 2025*
+*Cyber Defense Engineer | Malware Analyst | ASEAN Cyber Shield Exchange Student Program 2025*
 
 ## Experience
 ### Penetration Tester - National Cyber Security Agency (Bangkok, Thailand)
