@@ -2,7 +2,7 @@
 *Cyber Defense Engineer | Malware Analyst | ASEAN Cyber Shield Exchange Student Program 2025*
 
 ## Experience
-### Security Engineer - National Cyber Security Agency (Bangkok, Thailand)
+### Security Engineer - Gosoft Co., Ltd. (Nonthaburi, Thailand)
 *Full Time*
 *(Jul 2026 - Present)*
 - Investigated and analyzed security incidents escalated by the SOC team by reviewing system logs to determine root causes. Tracked security cases from initial triage to final resolution, implementing mitigation steps to close incidents.
