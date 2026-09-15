@@ -4,7 +4,7 @@
 ## Experience
 ### Security Engineer - National Cyber Security Agency (Bangkok, Thailand)
 *Full Time*
-*(Jul - Present)*
+*(Jul 2026 - Present)*
 - Investigated and analyzed security incidents escalated by the SOC team by reviewing system logs to determine root causes. Tracked security cases from initial triage to final resolution, implementing mitigation steps to close incidents.
 
 ### Penetration Tester - National Cyber Security Agency (Bangkok, Thailand)
