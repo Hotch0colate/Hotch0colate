@@ -2,11 +2,15 @@
 *Cyber Defense Engineer | Malware Analyst | ASEAN Cyber Shield Exchange Student Program 2025*
 
 ## Experience
+### Security Engineer - National Cyber Security Agency (Bangkok, Thailand)
+*Full Time*
+*(Jul - Present)*
+- Investigated and analyzed security incidents escalated by the SOC team by reviewing system logs to determine root causes. Tracked security cases from initial triage to final resolution, implementing mitigation steps to close incidents.
+
 ### Penetration Tester - National Cyber Security Agency (Bangkok, Thailand)
 *Internship*
-*(Mar 2026 - Present)*
+*(Mar 2026 - May)*
 - Utilized automated security scanning tools, specifically OpenVAS and Nessus, alongside manual web application testing with Burp Suite to identify, analyze system vulnerabilities.
-- Developed a specialized mini web project simulating the OWASP Top 10 to research mitigation for securing web-based applications.
 
 ### Malware Analyst - INCA Internet (Seoul, South Korea)
 *Internship*
@@ -20,7 +24,7 @@
 
 ## Education
 ### King Mongkut’s University of Technology Thonburi (Bangkok, Thailand)
-*(Aug 2021 - Present)*
+*(Aug 2021 - May 2026)*
 - Bachelor of Science in Applied Computer Science
 
 ### Kangwon National University (Chunchoen, South Korea)
